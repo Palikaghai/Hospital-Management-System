@@ -137,11 +137,4 @@ python manage.py runserver
 
 ---
 
-## 👨‍💻 Author
 
-Amanjot Singh  
-B.Tech CSE | Full Stack Developer | Data Analyst
-
-## ❤️ Show some love
-
-⭐ If you found this project useful, consider giving it a star.
